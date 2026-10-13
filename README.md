@@ -3,7 +3,7 @@
   <h1>Olá, eu sou Cauã Valotto</h1>
 
   <p align="center">
-    Graduando em <b>Química Industrial pela UNIFESP</b>, aplicando <b>Ciência de Dados</b>, <b>Machine Learning</b> e <b>Modelagem Matemática</b> para resolver problemas reais — da predição epidemiológica à simulação e otimização de materiais.
+    Graduando em <b>Química Industrial pela UNIFESP</b>, aplicando <b>Ciência de Dados</b>, <b>Machine Learning</b> e <b>Modelagem Matemática</b> para resolver alguns problemas.
   </p>
 
   <!-- Contato & Redes Acadêmicas/Profissionais -->
