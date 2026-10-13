@@ -44,26 +44,16 @@
 
 ## Projetos em Destaque
 
-- ### [projeto_tuberculose_ml](https://github.com/CauaValotto/projeto_tuberculose_ml)
-  Modelagem preditiva de mortalidade por tuberculose em idosos (Sudeste) com dados reais do DATASUS.  
+- **[projeto_tuberculose_ml](https://github.com/CauaValotto/projeto_tuberculose_ml)**: Modelagem preditiva de mortalidade por tuberculose em idosos (Sudeste) com dados reais do DATASUS.  
   **Tecnologias:** Python · Scikit-Learn · Pandas
 
-<br />
-
-- ### [RNA_CO2_SBA-15](https://github.com/CauaValotto/RNA_CO2_SBA-15)
-  Rede Neural Artificial (MLP) para estimar a adsorção de CO2 em sílicas para captura de carbono.  
+- **[RNA_CO2_SBA-15](https://github.com/CauaValotto/RNA_CO2_SBA-15)**: Rede Neural Artificial (MLP) para estimar a adsorção de CO2 em sílicas para captura de carbono.  
   **Tecnologias:** MATLAB · Redes Neurais
 
-<br />
-
-- ### [Harmonicos_Esfericos](https://github.com/CauaValotto/Harmonicos_Esfericos)
-  Renderização 3D interativa de orbitais atômicos com vetorização matemática e WebGL.  
+- **[Harmonicos_Esfericos](https://github.com/CauaValotto/Harmonicos_Esfericos)**: Renderização 3D interativa de orbitais atômicos com vetorização matemática e WebGL.  
   **Tecnologias:** Python · NumPy · Plotly
 
-<br />
-
-- ### [resolucao-killer-sudoku](https://github.com/CauaValotto/resolucao-killer-sudoku)
-  Resolução exata de problema combinatório formulado via Programação Linear Inteira (PLI).  
+- **[resolucao-killer-sudoku](https://github.com/CauaValotto/resolucao-killer-sudoku)**: Resolução exata de problema combinatório formulado via Programação Linear Inteira (PLI).  
   **Tecnologias:** Python · Otimização Matemática
 
 ---
@@ -71,8 +61,8 @@
 ## Estatísticas
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CauaValotto&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaValotto&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais usadas" />
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=CauaValotto&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaValotto&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais usadas" />
 </div>
 
 <br />
