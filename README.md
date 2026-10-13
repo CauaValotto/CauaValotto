@@ -61,8 +61,7 @@
 ## Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CauaValotto&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="48%" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaValotto&theme=github_dark&hide_border=true" width="48%" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CauaValotto&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide_rank=true" width="450" alt="Estatísticas do GitHub" />
 </div>
 
 <br />
