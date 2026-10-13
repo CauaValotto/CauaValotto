@@ -3,7 +3,7 @@
   <h1>Olá, eu sou Cauã Valotto</h1>
 
   <p align="center">
-    Graduando em <b>Química Industrial pela UNIFESP</b>, aplicando <b>Ciência de Dados</b>, <b>Machine Learning</b> e <b>Modelagem Matemática</b> para resolver problemas reais, da predição epidemiológica à simulação e otimização de materiais.
+    Graduando em <b>Química Industrial pela UNIFESP</b>, aplicando <b>Ciência de Dados</b>, <b>Machine Learning</b> e <b>Modelagem Matemática</b> para resolver problemas reais — da predição epidemiológica à simulação e otimização de materiais.
   </p>
 
   <!-- Contato & Redes Acadêmicas/Profissionais -->
@@ -26,7 +26,7 @@
 
 ---
 
-### Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -42,31 +42,41 @@
 
 ---
 
-### Projetos em Destaque
+## Projetos em Destaque
 
-- [**projeto_tuberculose_ml**](https://github.com/CauaValotto/projeto_tuberculose_ml): Modelagem preditiva de mortalidade por tuberculose (idosos, Sudeste) com dados reais do DATASUS.  
-  *`Python` · `Scikit-Learn` · `Pandas`*
+- ### [projeto_tuberculose_ml](https://github.com/CauaValotto/projeto_tuberculose_ml)
+  Modelagem preditiva de mortalidade por tuberculose em idosos (Sudeste) com dados reais do DATASUS.  
+  **Tecnologias:** Python · Scikit-Learn · Pandas
 
-- [**RNA_CO2_SBA-15**](https://github.com/CauaValotto/RNA_CO2_SBA-15): Rede Neural Artificial (MLP) para estimar adsorção de CO2 em sílicas para captura de carbono.  
-  *`MATLAB` · `Redes Neurais`*
+<br />
 
-- [**Harmonicos_Esfericos**](https://github.com/CauaValotto/Harmonicos_Esfericos): Renderização 3D interativa de orbitais atômicos com vetorização matemática e WebGL.  
-  *`Python` · `NumPy` · `Plotly`*
+- ### [RNA_CO2_SBA-15](https://github.com/CauaValotto/RNA_CO2_SBA-15)
+  Rede Neural Artificial (MLP) para estimar a adsorção de CO2 em sílicas para captura de carbono.  
+  **Tecnologias:** MATLAB · Redes Neurais
 
-- [**resolucao-killer-sudoku**](https://github.com/CauaValotto/resolucao-killer-sudoku): Resolução exata de problema combinatório formulado via Programação Linear Inteira (PLI).  
-  *`Python` · `Otimização Matemática`*
+<br />
+
+- ### [Harmonicos_Esfericos](https://github.com/CauaValotto/Harmonicos_Esfericos)
+  Renderização 3D interativa de orbitais atômicos com vetorização matemática e WebGL.  
+  **Tecnologias:** Python · NumPy · Plotly
+
+<br />
+
+- ### [resolucao-killer-sudoku](https://github.com/CauaValotto/resolucao-killer-sudoku)
+  Resolução exata de problema combinatório formulado via Programação Linear Inteira (PLI).  
+  **Tecnologias:** Python · Otimização Matemática
 
 ---
 
-### Estatísticas
+## Estatísticas
 
 <div align="center">
-  <img height="135em" src="https://github-readme-stats.vercel.app/api?username=CauaValotto&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaValotto&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais usadas" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CauaValotto&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaValotto&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais usadas" />
 </div>
 
 <br />
 
-<div align="center">
-  <sub>Construindo soluções na interseção entre dados, química e modelagem matemática.</sub>
-</div>
+<p align="center">
+  Construindo soluções na interseção entre dados, química e modelagem matemática.
+</p>
