@@ -3,7 +3,7 @@
   <h1>Olá, eu sou Cauã Valotto</h1>
 
   <p align="center">
-    Graduando em <b>Química Industrial pela UNIFESP</b>, aplicando <b>Ciência de Dados</b>, <b>Machine Learning</b> e <b>Modelagem Matemática</b> para resolver problemas reais.
+    Graduando em <b>Química Industrial pela UNIFESP</b>, aplicando <b>Ciência de Dados</b>, <b>Machine Learning</b> e <b>Modelagem Matemática</b> para resolver problemas reais — da predição epidemiológica à simulação e otimização de materiais.
   </p>
 
   <!-- Contato & Redes Acadêmicas/Profissionais -->
@@ -61,7 +61,8 @@
 ## Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CauaValotto&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide_rank=true" width="450" alt="Estatísticas do GitHub" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CauaValotto&theme=github_dark" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CauaValotto&theme=github_dark" alt="Stats" />
 </div>
 
 <br />
