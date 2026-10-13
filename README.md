@@ -8,18 +8,10 @@
 
   <!-- Contato & Redes Acadêmicas/Profissionais -->
   <p align="center">
-    <a href="https://www.linkedin.com/in/cau%C3%A3valotto" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="http://lattes.cnpq.br/9698204066549295" target="_blank">
-      <img src="https://img.shields.io/badge/Lattes-CNPq-003366?style=for-the-badge&logo=academia&logoColor=white" alt="Currículo Lattes" />
-    </a>
-    <a href="https://www.kaggle.com/caulourenovalotto" target="_blank">
-      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-    </a>
-    <a href="mailto:c.valoto@unifesp.br">
-      <img src="https://img.shields.io/badge/Email-c.valoto%40unifesp.br-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
+    <a href="https://www.linkedin.com/in/cau%C3%A3valotto" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="http://lattes.cnpq.br/9698204066549295" target="_blank"><img src="https://img.shields.io/badge/Lattes-CNPq-003366?style=for-the-badge&logo=academia&logoColor=white" alt="Currículo Lattes" /></a>
+    <a href="https://www.kaggle.com/caulourenovalotto" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+    <a href="mailto:c.valoto@unifesp.br"><img src="https://img.shields.io/badge/Email-c.valoto%40unifesp.br-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 
 </div>
