@@ -67,7 +67,3 @@
 </div>
 
 <br />
-
-<p align="center">
-  Construindo soluções na interseção entre dados, química e modelagem matemática.
-</p>
